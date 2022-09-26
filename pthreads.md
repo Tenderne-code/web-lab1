@@ -1,6 +1,6 @@
 # POSIX Threads
 
-*本文翻译自 [《Getting Started With POSIX Threads》](pthreads.pdf) by Tom Wagner and Don Towsley, in 1995* 。
+*本文翻译自 [《Getting Started With POSIX Threads》](https://github.com/N2Sys-EDU/Lab1-Documentation/releases/download/resources/pthreads.pdf) by Tom Wagner and Don Towsley, in 1995* 。
 
 ## Introduction: What is a thread and what is it good for?
 
@@ -271,4 +271,4 @@ pthread_detach(thread);
 
 ## Appendix A
 
-见 [原文附录 A](pthreads.pdf) 。
+见 [原文附录 A](https://github.com/N2Sys-EDU/Lab1-Documentation/releases/download/resources/pthreads.pdf) 。
