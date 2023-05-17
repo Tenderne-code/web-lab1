@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/m/web-labs/lab1-myftp-Tenderne-code/ftp_client.c
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+sys/types.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+limits.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/socket.h
+-
+

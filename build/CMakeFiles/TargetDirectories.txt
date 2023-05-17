@@ -1,0 +1,5 @@
+/home/m/web-labs/lab1-myftp-Tenderne-code/build/CMakeFiles/rebuild_cache.dir
+/home/m/web-labs/lab1-myftp-Tenderne-code/build/CMakeFiles/edit_cache.dir
+/home/m/web-labs/lab1-myftp-Tenderne-code/build/CMakeFiles/test.dir
+/home/m/web-labs/lab1-myftp-Tenderne-code/build/CMakeFiles/ftp_client.dir
+/home/m/web-labs/lab1-myftp-Tenderne-code/build/CMakeFiles/ftp_server.dir
