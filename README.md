@@ -1,1 +1,3 @@
-详细信息请参见 [lab1 documents](https://edu.n2sys.cn/#/tut_lab/lv1/README)
+# FTP协议
+
+完整实现一个FTP协议的功能
